@@ -1,0 +1,4 @@
+private_keys.txt
+proxies.txt
+node_modules/
+*.log

@@ -1,0 +1,15 @@
+base:
+  api_base_url: 'https://api1-pp.klokapp.ai/v1'
+  referral_code: "BSKMUXHD"
+  language: "english"
+runner:
+  thread_count: 2
+  max_thread_delay: 60
+scheduler:
+  jobs:
+    - name: "chat_daily"
+      schedule: "0 9 * * *"
+capsolver:
+  api_key: ""
+  website_url: "https://klokapp.ai"
+  website_key: "6LcZrRMrAAAAAKllb4TLb1CWH2LR7iNOKmT7rt3L"

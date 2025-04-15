@@ -1,6 +1,4 @@
-markdown
 
-Sao chép
 # Klok Automation Robot
 
 ## Giới thiệu
